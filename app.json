@@ -1,7 +1,7 @@
 {
-	"name": "naze",
-	"description": "WhatsApp Bot Using Lib Baileys",
-	"repository": "https://github.com/nazedev/naze-md",
+	"name": "amaan",
+	"description": "Amaan Multi Device Whatsapp Bot",
+	"repository": "https://github.com/rehmanihoon/naze-md/edit/main/config.js",
 	"logo": "https://node-js-sample.herokuapp.com/node.png",
 	"keywords": ["multi-device"]
 }
